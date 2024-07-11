@@ -1,0 +1,59 @@
+
+body{
+    background-color: rgb(41, 178, 41);
+}.all{
+    border: 1px solid black;
+    border-radius: 8px;
+    margin: 200px 520px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.box{
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 2px;
+    background-color: rgb(13, 14, 40);
+}
+.box p{
+    padding-left: 20px;
+    color: aliceblue;
+}
+h1,h3{
+    padding-left: 30px ;
+}
+h3{
+    color: rgb(151, 151, 151);
+}
+.add{
+    margin-left: 10px;
+    padding: 3px 15px 3px 15px;
+    border-radius: 20px;
+    background-color: rgb(77, 137, 240);
+}
+input{
+    border-radius: 6px;
+    width: 60%;
+}
+button{
+    margin-left: 10px;
+    padding: 3px 15px 3px 15px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.clear{
+    background-color: rgb(77, 137, 240);
+
+}
+.empty{
+    background-color: rgba(255, 0, 0, 0.645);
+}
+.save{
+    background-color: rgb(92, 255, 47);
+}
+button:hover,input:hover{
+    background-color: rgb(79, 79, 79);
+}
+.sa{
+    background-color: rgb(201, 201, 202);
+    width: 100px;
+}
